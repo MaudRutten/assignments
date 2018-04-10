@@ -1,3 +1,4 @@
 # assignments
 
-[assignment 1](https://github.com/MaudRutten/assignments/blob/master/assignment2%20Maud%20Rutten.ipynb)
+[assignment 2](https://github.com/MaudRutten/assignments/blob/master/assignment2%20Maud%20Rutten.ipynb)
+[assignment 3](https://github.com/MaudRutten/assignments/blob/master/assignment3%20Maud%20Rutten.ipynb)
