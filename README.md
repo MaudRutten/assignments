@@ -6,3 +6,4 @@
 [graded_assignment 1](https://github.com/MaudRutten/assignments/blob/master/assignment%205%20Maud%20Rutten.ipynb)
 [graded_assignment 2](https://github.com/MaudRutten/assignments/blob/master/Graded_assignment%202.ipynb)
 [Exam Python](https://github.com/MaudRutten/assignments/blob/master/EXAM%20PYTHON.ipynb)
+[Exam R](https://github.com/MaudRutten/assignments/blob/master/EXAM%20R.ipynb)
