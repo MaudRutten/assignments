@@ -8,3 +8,4 @@
 [Exam Python](https://github.com/MaudRutten/assignments/blob/master/EXAM%20PYTHON.ipynb)
 [Exam R](https://github.com/MaudRutten/assignments/blob/master/EXAM%20R.ipynb)
 [Resit 2 R](https://russet.uvt.nl/user/u997075/notebooks/Resit_2_student.ipynb#)
+[Resit 2 Python](https://russet.uvt.nl/user/u997075/notebooks/exam_Oct_26_2018.ipynb#)
